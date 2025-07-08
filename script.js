@@ -448,7 +448,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         
         .nav-link.active {
-            color: #667eea;
+            color: #3b82f6;
             font-weight: 600;
         }
         
@@ -498,11 +498,11 @@ function createLogoPlaceholder() {
         
         const stop1 = document.createElementNS('http://www.w3.org/2000/svg', 'stop');
         stop1.setAttribute('offset', '0%');
-        stop1.setAttribute('stop-color', '#667eea');
+        stop1.setAttribute('stop-color', '#3b82f6');
         
         const stop2 = document.createElementNS('http://www.w3.org/2000/svg', 'stop');
         stop2.setAttribute('offset', '100%');
-        stop2.setAttribute('stop-color', '#764ba2');
+        stop2.setAttribute('stop-color', '#1e40af');
         
         gradient.appendChild(stop1);
         gradient.appendChild(stop2);

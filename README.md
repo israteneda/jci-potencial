@@ -6,7 +6,7 @@ Una página web moderna y completa para JCI Potencial Mitad del Mundo, diseñada
 
 ### Diseño Moderno
 - **Responsive Design**: Adaptable a todos los dispositivos (desktop, tablet, móvil)
-- **Gradientes Atractivos**: Paleta de colores profesional con azules y morados
+- **Gradientes Atractivos**: Paleta de colores profesional con tonos azules
 - **Animaciones Suaves**: Efectos de transición y animaciones al hacer scroll
 - **Tipografía Profesional**: Fuente Inter para una lectura óptima
 
@@ -50,8 +50,8 @@ JCI-Mitad-del-Mundo/
 
 ## 🎨 Paleta de Colores
 
-- **Primario**: #667eea (Azul)
-- **Secundario**: #764ba2 (Morado)
+- **Primario**: #3b82f6 (Azul)
+- **Secundario**: #1e40af (Azul Oscuro)
 - **Texto Principal**: #2d3748 (Gris oscuro)
 - **Texto Secundario**: #718096 (Gris medio)
 - **Fondo**: #f8fafc (Gris claro)
@@ -92,8 +92,8 @@ JCI-Mitad-del-Mundo/
 ```css
 /* En styles.css */
 :root {
-    --primary-color: #667eea;
-    --secondary-color: #764ba2;
+    --primary-color: #3b82f6;
+    --secondary-color: #1e40af;
     --text-color: #2d3748;
 }
 ```
